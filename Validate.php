@@ -1,4 +1,5 @@
 <?php
+namespace altayalp\test;
 
 class Validate implements ValidateInterface
 {

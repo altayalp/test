@@ -1,4 +1,5 @@
 <?php
+namespace altayalp\test\interfaces;
 
 interface MailInterface
 {

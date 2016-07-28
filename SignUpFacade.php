@@ -1,4 +1,9 @@
 <?php
+namespace altayalp\test;
+use altayalp\test\interfaces\AuthInterface;
+use altayalp\test\interfaces\MailInterface;
+use altayalp\test\interfaces\UserInterface;
+use altayalp\test\interfaces\ValidateInterface;
 
 /**
 * Facade pattern class

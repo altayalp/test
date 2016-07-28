@@ -1,4 +1,6 @@
 <?php
+namespace altayalp\test;
+
 class Mail implements MailInterface
 {
 	public function to($to)

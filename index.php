@@ -1,4 +1,5 @@
 <?php
+namespace altayalp\test;
 
 include('interface/AuthInterface.php');
 include('interface/MailInterface.php');
@@ -9,6 +10,12 @@ include('Mail.php');
 include('User.php');
 include('Validate.php');
 include('SignUpFacade.php');
+
+use altayalp\test\Auth;
+use altayalp\test\Mail;
+use altayalp\test\User;
+use altayalp\test\Validate;
+use altayalp\test\SignUpFacade;
 
 // Php facade design pattern simple and complete example with dependency injection
 $userName = 'userName';
