@@ -7,7 +7,6 @@ use altayalp\test\User;
 use altayalp\test\Validate;
 use altayalp\test\SignUpFacade;
 
-// Php facade design pattern simple and complete example with dependency injection
 $userName = 'userName';
 $userPass = 'userPass';
 $userMail = 'userMail';
