@@ -12,6 +12,7 @@
             "role": "Developer"
         }
     ],
+    "minimum-stability": "beta",
     "require": {
         "php": ">=5.4.0",
         "ext-ftp": "*"
