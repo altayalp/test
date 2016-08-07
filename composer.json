@@ -1,0 +1,23 @@
+{
+    "name": "altayalp/test",
+    "description": "test library for github",
+    "homepage": "https://github.com/altayalp/test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "izzet ögetürk",
+            "email": "altayalp@gmail.com",
+            "homepage": "http://altayalp.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "ext-ftp": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "altayalp\\test\\": "src/"
+        }
+    }
+}
